@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bouacha Chamel Nadir</h1>
-<h3 align="center">A passionate frontend developer from Algeria</h3>
+<h3 align="center">A Passionate Frontend Developer|Designer From Algeria</h3>
+
+- 🌱 I’m currently learning **React / Node.js**
+
+- 💬 Ask me about **JavaScript ES6**
+
+- 📫 How to reach me **lc_bouacha@esi.dz**
+
+- ⚡ Fun fact **I like swimming 🏊‍♀️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chamel nadir bouacha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamel nadir bouacha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/chamel-nadir-bouacha-601874220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chamel-nadir-bouacha-601874220/" height="30" width="40" /></a>
 <a href="https://fb.com/chamil bouacha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamil bouacha" height="30" width="40" /></a>
 </p>
 
