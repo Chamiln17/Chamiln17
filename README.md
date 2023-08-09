@@ -45,6 +45,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Chamiln17/Chamiln17/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Chamiln17/Chamiln17/snake.svg" alt="Snake animation" />
 
 ###
