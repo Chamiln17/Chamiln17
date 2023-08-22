@@ -4,7 +4,17 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning **React / Node.js**<br><br>- 💬 Ask me about JavaScript ES6<br><br>- 📫 How to reach me lc_bouacha@esi.dz**<br><br>- ⚡ Fun fact I like swimming 🏊‍♀️</p>
+- 🌱 I’m currently learning React / Node.
+
+
+- 💬 Ask me about JavaScript ES6
+
+  
+- 📫 How to reach me **lc_bouacha@esi.dz**
+
+  
+- ⚡ Fun fact I like **swimming** 🏊‍♀️
+
 
 ###
 
