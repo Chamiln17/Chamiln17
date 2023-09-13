@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Chamel Nadir Bouacha and I'm a Frontend Developer, from Algeria</h2>
+<h2 align="center">Hi 👋! My name is Chamel Nadir Bouacha and I'm a Fullstack Developer, from Algeria</h2>
 
 ###
 
