@@ -1,10 +1,10 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Chamel Nadir Bouacha and I'm a Fullstack Developer, from Algeria</h2>
+<h2 align="center">Hi 👋! My name is Chamel Nadir Bouacha and I'm a Junior Web Developer, from Algeria</h2>
 
 ###
 
-- 🌱 I’m currently learning Next.js.
+- 🌱 I’m currently learning Next.js
 
 
 - 💬 Ask me about JavaScript ES6
