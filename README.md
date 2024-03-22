@@ -4,11 +4,6 @@
 
 ###
 
-- 🌱 I’m currently learning Django
-
-
-- 💬 Ask me about JavaScript ES6
-
   
 - 📫 How to reach me **lc_bouacha@esi.dz**
 
