@@ -36,7 +36,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Chamiln17&show_icons=truek&theme=radical"/>
 <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamiln17&layout=compact&theme=radical" />
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Chamiln17&theme=radical&card_width=700&type=png">
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Chamiln17&theme=radical&card_width=700">
 
 </div>
 
